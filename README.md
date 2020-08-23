@@ -3,9 +3,13 @@
 # Kurulum
 
 >> apt-get install python3 python3-pip
+
 >> git clone https://github.com/rylex00/Spy-SMS
+
 >> cd Spy-SMS
+
 >> chmod +x SpySMS.py
+
 >> python3 SpySMS.py
 
 NOT:
