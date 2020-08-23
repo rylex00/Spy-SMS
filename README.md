@@ -1,6 +1,6 @@
 # Spy Hackerz Üyelerinin Kullanması İçin Kodlanmıştır.
 
-Kullanım:
+# Kurulum
 
 >> apt-get install python3 python3-pip
 >> git clone https://github.com/rylex00/Spy-SMS
