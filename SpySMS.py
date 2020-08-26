@@ -38,7 +38,7 @@ if drlm == "y" or drlm == "Y":
     resp = requests.post('https://textbelt.com/text', {
   'phone': sor,
   'message': arlk,
-  'key': 'textbelt',
+  'key': '393d3d2b1d7a087a28948c16b8bd1e2d83248a7aQDy8VU00Cf5n5CuRDNsjp0QZZ',
     })
     print(resp.json())
 
