@@ -4,16 +4,16 @@
 import requests
 from os import system as s
 
+import os
 
+os.system("apt-get install figlet")
+
+os.system("clear")
+
+os.system("figlet SPY HACKERZ - SMS GÖNDERME ARACI")
 
 banner = """
-         >SPY - HACKERZ | SMS GÖNDERME ARACI	
-
-         $$$$$$$$$  $$$$$$$$  $$$$#   #$$$$	
-	 $$$        $$    $$     $$   $$  	
-	 $$$$$$$$   $$$$$$$$       $$$	
-	      $$$   $$             $$$		
-	$$$$$$$$$   $$             $$$	       >Coder By Rylex
+         	             >Coder By Rylex
 
 |> İstediginiz telefon adresine hergun 1 defa mesaj atma hakkınız vardır!
 |> Mesajınızdaki karakter sayısı sınırlıdır.
