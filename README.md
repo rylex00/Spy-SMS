@@ -1,5 +1,7 @@
 # Spy Hackerz Üyelerinin Kullanması İçin Kodlanmıştır.
 
+Araçtaki tüm bilgi ve programlar tamamen test amacıyla paylaşılmış olup yasa dışı kullanımı tamamen kullanan kişiyi ilgilendirmektedir.
+
 # Kurulum
 
 >> apt-get install python3 python3-pip
